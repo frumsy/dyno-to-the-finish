@@ -1,12 +1,12 @@
 # dyno-to-the-finish
 A simple bot that plays the offline chrome browser Easter egg for you. The fastest was to use the script is to simply copy paste it into the chrome console.
 
-<b>Get to Dyno game:</b>
-there are two ways:
+<b>Get to Dyno game:</b><br />
+Either:<br />
 1. simple way:
-	disconnect from internet and open new tab.
+	disconnect from internet and open new tab.<br />
 <b>or</b>
-2. If you want to open it and have internet on other tabs:
+2. If you want to open it and have internet on other tabs:<br />
 	-open a new tab hit <b>ctrl-shift-j</b> to pull up console<br />
 	-click the application tab<br />
 	-click the service works menu under application<br />
