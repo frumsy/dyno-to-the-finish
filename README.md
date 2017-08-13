@@ -7,11 +7,11 @@ there are two ways:
 	disconnect from internet and open new tab.
 <b>or</b>
 2. If you want to open it and have internet on other tabs:
-	-open a new tab hit <b>ctrl-shift-j</b> to pull up console
-	-click the application tab
-	-click the service works menu under application
-	-check the offline box
-	-refresh the page
+	-open a new tab hit <b>ctrl-shift-j</b> to pull up console<br />
+	-click the application tab<br />
+	-click the service works menu under application<br />
+	-check the offline box<br />
+	-refresh the page<br />
 
 <b>To run the script:</b>
 Simply copy and paste the script into console
